@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test"
+           tests="29"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.180">
+  <properties />
+  
+  
+            <testcase name="API Test" time="0.067" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.149" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.896" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.022" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.727" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.025" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.080" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.216" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.084" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.017" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.028" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.106" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.085" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.040" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.047" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.059" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.066" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.021" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.033" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.221" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.342" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.091" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.041" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.027" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.090" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.029" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.157" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.356" classname="testCase.HTTPReqGenTest (API Test)" />
+                <testcase name="API Test" time="0.058" classname="testCase.HTTPReqGenTest (API Test)" />
+      
+</testsuite>
